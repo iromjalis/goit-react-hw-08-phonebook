@@ -1,0 +1,53 @@
+.Register,
+.Login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  margin-bottom: 10px;
+  width: 50%;
+  color: inherit;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.label input {
+  color: inherit;
+  margin-top: 5px;
+}
+
+.label input:focus,
+.label input:hover {
+  border-color: red;
+}
+
+.label input:focus-within {
+  color: grey;
+}
+
+.button {
+  margin-top: 10px;
+  background: inherit;
+  padding: 5px 10px;
+  margin-right: auto;
+  width: 35%;
+  color: inherit;
+  font-weight: 500;
+  border: 2px solid darkgrey;
+  border-radius: 10px;
+}
+
+.button:hover,
+.button:focus {
+  border-color: grey;
+  background-color: grey;
+  color: white;
+}

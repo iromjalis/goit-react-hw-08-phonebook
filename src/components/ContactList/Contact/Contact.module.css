@@ -1,0 +1,30 @@
+.Contact {
+  margin-bottom: 10px;
+}
+
+.span {
+  margin-right: 5px;
+  color: darkblue;
+  display: inline-block;
+  width: 200px;
+}
+
+.span:first-child {
+  font-weight: 500;
+}
+
+.button {
+  margin-left: 10%;
+  padding: 1px 10px;
+  border-radius: 10px;
+  /* border-color: red; */
+  /* color: red; */
+  font-weight: 500;
+}
+
+.button:hover,
+.button:focus {
+  cursor: pointer;
+  color: white;
+  background-color: grey;
+}
