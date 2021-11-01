@@ -5,7 +5,7 @@ const Home = () => {
     <div className={s.Home}>
       <p>
         <img
-          src="https://lh3.googleusercontent.com/proxy/ZnMWOShsZvLauP_Xv-y-HNEkteChZiGf4-SjSwuEwmgOg6r62kpN8RwvYa8W9mChQhuAJV5ebhDGjXdllQhI-nxtTNP7YpRV4K0"
+          src="https://lh3.googleusercontent.com/proxy/g9RKo-O2EA8pnM3_2QhhEAIWL4rm74AHjvUVtntCCMT3ETSQgnW7aZ10gV92DRsVAWS2Jg1X0yQaZpaV8EEIz2gKPgDNFs8GRQM"
           alt="my phonebook"
           title="My phonebook page background"
         />
